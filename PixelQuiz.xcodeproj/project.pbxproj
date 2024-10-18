@@ -15,6 +15,7 @@
 
 /* Begin PBXFileReference section */
 		634DF1632CC2F21E00CC5EF1 /* PixelQuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PixelQuizView.swift; sourceTree = "<group>"; };
+		634DF16D2CC2FAA000CC5EF1 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		63B9E3392BD0744A00C02B2E /* PixelQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PixelQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63B9E33C2BD0744A00C02B2E /* PixelQuizApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PixelQuizApp.swift; sourceTree = "<group>"; };
 		63B9E3402BD0744A00C02B2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		63B9E3302BD0744A00C02B2E = {
 			isa = PBXGroup;
 			children = (
+				634DF16D2CC2FAA000CC5EF1 /* .gitignore */,
 				63B9E33B2BD0744A00C02B2E /* PixelQuiz */,
 				63B9E33A2BD0744A00C02B2E /* Products */,
 			);
