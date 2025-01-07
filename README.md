@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/195e263e-af01-411a-87f8-979b38fc10af" width="350" height="350"/>
 </p>
 
-# Project Title
+# Pixel Quiz
 
 This is a sample project using Metal shaders to implement a quiz style game where the user can guess images being displayed to score points.
 
